@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning && working as a software developer at **levtech.co.ke**
 - 💬 Ask me about **JavaScript programming && MERN Stack**
-- 📫 Reach out to me at **[`levtech.co.ke`](mailto:levtech.co.ke@gmail.com)**
+- 📫 Reach out to me at **[`levtech.co.ke@gmail.com`](mailto:levtech.co.ke@gmail.com)**
 - 💼 See my full portfolio at **[`levtech.co.ke`](https://levanio.netlify.app)**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
