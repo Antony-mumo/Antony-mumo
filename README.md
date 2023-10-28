@@ -8,6 +8,9 @@
 
 <header>
   <div align="center">
+     <a href="https://www.linkedin.com/in/antony-mumo-62b657171/">
+      <img alt="My LinkedIn Profile" src="https://img.shields.io/static/v1?color=01bf71&label=linkein&message=@tonny-js&style=flat&logo=linkedin&logoColor=1a6aff&labelColor=334155">
+    </a>
     <a href="https://tonnydev.vercel.app/">
       <img alt="My Personal Portfolio" src="https://img.shields.io/static/v1?color=01bf71&label=Website&message=tonny.dev&style=flat&logo=atom&logoColor=61dbfb&labelColor=334155">
     </a>
@@ -16,7 +19,7 @@
     </a>
     <a href="https://hashnode.com/@tonny-js">
       <img alt="My Hashnode Profile" src="https://img.shields.io/static/v1?color=01bf71&label=Hashnode&message=@tonny-js&style=flat&logo=hashnode&logoColor=1a6aff&labelColor=334155">
-    </a>
+    </a> 
   </div>
 </header>
 
